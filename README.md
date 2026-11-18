@@ -1,16 +1,14 @@
-# grocery_app
+## grocery_app
 
-A new Flutter project.
+### login_screen
+<img width="400" height="725" alt="Screenshot_1795016810" src="https://github.com/user-attachments/assets/5864f5d4-fe4a-40b5-8ebb-93f00f2f0909" />
 
-## Getting Started
+## signup_screen
+<img width="400" height="725" alt="Screenshot_1795035785" src="https://github.com/user-attachments/assets/72e01008-0e10-4c88-b665-b68fd544c02e" />
 
-This project is a starting point for a Flutter application.
+## home_screen
+<img width="400" height="725" alt="Screenshot_1795035443" src="https://github.com/user-attachments/assets/5eb85f22-b5dc-4fe6-a7d7-980aaf2adbac" />
+---
+<img width="400" height="725" alt="Screenshot_1795035461" src="https://github.com/user-attachments/assets/24bf8a0a-37dd-4772-9725-5ddb70dbb520" />
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="400" height="725" alt="Screenshot_1795035463" src="https://github.com/user-attachments/assets/cf2b6341-33a2-4465-bd88-65264c568da3" />
